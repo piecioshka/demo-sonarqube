@@ -64,7 +64,6 @@ function grade(score, attendance, participation, extra) {
   return result;
 }
 
-// TODO: add support for BigInt inputs
 function square(n) {
   let result = n * n;
   result = Math.pow(n, 2);

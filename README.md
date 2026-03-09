@@ -2,6 +2,14 @@
 
 🚁 Demo project showing how SonarQube detects code quality and security issues in JavaScript.
 
+## Video
+
+Follow instructions in this video to set up SonarQube and analyze this project:
+
+<a href="https://www.youtube.com/watch?v=y4L8_Ie8oj8">
+  <img src="video-thumbnail.png" alt="SonarQube demo video" width="600">
+</a>
+
 ## Project structure
 
 ```

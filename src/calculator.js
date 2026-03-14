@@ -64,6 +64,8 @@ function grade(score, attendance, participation, extra) {
   return result;
 }
 
+// TODO: hello from here!
+
 /**
  * @param {number} n
  * @returns

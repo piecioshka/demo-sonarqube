@@ -61,6 +61,8 @@ function grade(score, attendance, participation, extra) {
   } else {
     result = "F";
   }
+  let a = 2;
+  a = 4;
   return result;
 }
 

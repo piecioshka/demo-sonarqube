@@ -18,8 +18,4 @@ function runReport(username) {
   exec("generate-report.sh " + username);
 }
 
-function login() {
-  // TODO: implement me
-}
-
 module.exports = { login, runReport };

@@ -1,6 +1,7 @@
 {
   "name": "demo-sonarqube",
   "version": "1.0.0",
+  "license": "MIT",
   "scripts": {
     "test": "jest",
     "test:coverage": "jest --coverage"

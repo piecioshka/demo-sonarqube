@@ -1,5 +1,11 @@
 # demo-sonarqube
 
+<!-- prettier-ignore-start -->
+
+[![sonarqube](https://github.com/piecioshka/demo-sonarqube/actions/workflows/sonarqube.yml/badge.svg)](https://github.com/piecioshka/demo-sonarqube/actions/workflows/sonarqube.yml)
+
+<!-- prettier-ignore-end -->
+
 🚁 Demo project showing how SonarQube detects code quality and security issues in JavaScript.
 
 ## Video

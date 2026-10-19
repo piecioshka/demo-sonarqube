@@ -16,17 +16,6 @@ Follow instructions in this video to set up SonarQube and analyze this project:
   <img src="video-thumbnail.png" alt="SonarQube demo video" width="600">
 </a>
 
-## Project structure
-
-```
-src/
-  auth.js         - authentication module (SQL injection, command injection examples)
-  calculator.js   - math utilities (eval usage, code smells examples)
-tests/
-  auth.test.js
-  calculator.test.js
-```
-
 ## Intentional issues (for SonarQube demo)
 
 | File                | Issue                                   | Type                         |
@@ -39,13 +28,9 @@ tests/
 | `src/calculator.js` | Unused first assignment in `square()`   | Code Smell - Dead code       |
 | `src/calculator.js` | Empty `catch` block in `parseNumber()`  | Code Smell - Silent error    |
 
-## Usage
+## Contributing
 
-```bash
-npm install
-npm run test
-npm run test:coverage
-```
+See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
